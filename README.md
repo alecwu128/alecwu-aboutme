@@ -1,4 +1,4 @@
-# Hi, I'm Alec 👋
+# Bonjour/ Hi, I'm Alec 👋
 
 - 🎯 Data & BI Analyst with 3+ years of experience in luxury & beauty (L'Oréal Luxe, Galeries Lafayette...)
 - 📊 I build dashboards, data models and automation (Power BI, SQL, Python)
