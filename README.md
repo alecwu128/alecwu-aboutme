@@ -1,9 +1,9 @@
 # Hi, I'm Alec 👋
 
-- 🎯 Data & BI Analyst with experience in luxury & beauty (L'Oréal Luxe, etc.)
+- 🎯 Data & BI Analyst with 3+ years of experience in luxury & beauty (L'Oréal Luxe, Galeries Lafayette...)
 - 📊 I build dashboards, data models and automation (Power BI, SQL, Python)
-- 🤖 Interested in AI for marketing, retail and customer insights
-- 🌍 Languages: Chinese, English, French (improving!), Japanese, Italian, Korean, Spanish
+- 🤖 Interested in AI for market intelligence and consumer-driven insights
+- 🌍 Languages: Mandarin, Cantonses, English, French, Japanese
 
 ## 🔧 Tech stack
 - BI: Power BI, Tableau, Looker Studio
