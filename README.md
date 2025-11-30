@@ -6,9 +6,9 @@
 - 🌍 Languages: Mandarin, Cantonses, English, French, Japanese
 
 ## 🔧 Tech stack
-- BI: Power BI, Tableau, Looker Studio
-- Data: Python (pandas, scikit-learn), SQL
-- Tools: Git, Jupyter, GCP, Excel, Power Query, R
+- Data: Python (pandas, scikit-learn), SQL, R
+- BI: Power BI, Tableau, Qlik Sense Looker Studio, R
+- Tools: Git, Jupyter, GCP, Excel, Power Query
 
 ## 📂 Featured projects
 - 🏡 **Airbnb Trust & Occupancy Modeling** – End-to-end ML pipeline with multilingual sentiment analysis and SHAP explainability to understand what drives bookings  
